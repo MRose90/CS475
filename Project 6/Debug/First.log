@@ -1,0 +1,8 @@
+﻿  first.cpp
+c:\users\michael rose\documents\github\cs\cs 475\project 6\first.cpp(257): warning C4838: conversion from 'int' to 'size_t' requires a narrowing conversion
+c:\users\michael rose\documents\github\cs\cs 475\project 6\first.cpp(258): warning C4838: conversion from 'int' to 'size_t' requires a narrowing conversion
+c:\users\michael rose\documents\github\cs\cs 475\project 6\first.cpp(455): warning C4838: conversion from 'int' to 'size_t' requires a narrowing conversion
+c:\users\michael rose\documents\github\cs\cs 475\project 6\first.cpp(456): warning C4838: conversion from 'int' to 'size_t' requires a narrowing conversion
+c:\users\michael rose\documents\github\cs\cs 475\project 6\first.cpp(648): warning C4838: conversion from 'int' to 'size_t' requires a narrowing conversion
+c:\users\michael rose\documents\github\cs\cs 475\project 6\first.cpp(649): warning C4838: conversion from 'int' to 'size_t' requires a narrowing conversion
+  First.vcxproj -> C:\Users\Michael Rose\Documents\GitHub\CS\CS 475\Project 6\Debug\First.exe

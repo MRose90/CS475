@@ -1,0 +1,5 @@
+,Size,Non-SIMD,SIMD,Speedup
+Smallest Multiplication Speedup, 28416112.0 , 2.252418 , 9.795808 , 4.34901869902
+Largest Multiplication Speedup, 160995.0 , 1.204334 , 9.30985 , 7.73028910585
+Smallest Reduction Speedup, 28480110.0 , 2.285086 , 13.658776 , 5.97735752615
+Largest Reduction Speedup, 160995.0 , 1.225975 , 10.213361 , 8.33080690879
